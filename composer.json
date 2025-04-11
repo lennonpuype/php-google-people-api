@@ -22,7 +22,7 @@
     "repositories": [
         {
           "type": "vcs",
-          "url": "git@github.com:lennonpuype/php-google-oauth-2-handler.git"
+          "url": "https://github.com/lennonpuype/php-google-oauth-2-handler.git"
         }
     ]
 }
